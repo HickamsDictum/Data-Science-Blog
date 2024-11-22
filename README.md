@@ -1,5 +1,5 @@
 # Data-Science-Blog
-A collection of data science case studies and blog articles.
+A collection of data science case studies and blog articles by Benjamin Hinson-Ekong.
 
 ##Machine Learning Case Studies:
 
